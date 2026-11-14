@@ -5,6 +5,9 @@
 [submodule "fastsae"]
 	path = fastsae
 	url = https://github.com/ridsonap/fastsae
+[submodule "labelnoise"]
+	path = labelnoise
+	url = https://github.com/ridsonap/labelnoise
 [submodule "sae.projection"]
 	path = sae.projection
 	url = https://github.com/ridsonap/sae.projection
